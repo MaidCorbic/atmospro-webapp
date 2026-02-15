@@ -4,7 +4,9 @@
 ![GitHub license](https://img.shields.io/github/license/username/WeatherApp) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/username/WeatherApp)
 
-**WeatherApp** je moderna web aplikacija za prikaz vremena, napravljena koristeći **HTML, CSS i JavaScript**. Aplikacija je još u izradi, ali već je potpuno funkcionalna i spremna za korištenje. Lako je koristiti, sa intuitivnim interfejsom i realnim grafičkim prikazom vremenskih uslova.
+**WeatherApp** je moderna web aplikacija za prikaz vremena, napravljena koristeći **HTML, CSS i JavaScript**. 
+Aplikacija je još u **izradi**, ali već je potpuno **funkcionalna i spremna za korištenje.**
+Lako je koristiti, sa **intuitivnim interfejsom** i realnim grafičkim prikazom vremenskih uslova.
 
 ---
 
@@ -53,13 +55,13 @@
 
 1. Kloniraj repozitorij.
 2. Otvori index.html u svom pregledniku
-
-Počni koristiti aplikaciju odmah – nije potrebna dodatna konfiguracija.
+3. Počnite koristiti aplikaciju odmah, nije potrebna dodatna konfiguracija.
 
 Napomene:
 
 Aplikacija je još u razvoju – dodajemo nove gradove i featuree.
 Funkcionalnost grafike i predikcija je povezana sa stvarnim vremenskim periodom.
 Svi animirani efekti su optimizirani za glatko iskustvo korisnika.
+
    ```bash
    git clone https://github.com/username/WeatherApp.git
